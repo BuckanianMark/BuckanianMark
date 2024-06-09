@@ -10,7 +10,7 @@
   -HTML
   -Graphql
 - 🌱 I’m currently a fullstack
-  MEAN/MERN app developER
+  MEAN/MERN app developer
   How to reach me...
   kariukimark115@gmail.com
   https://buckanianportfolio.onrender.com
