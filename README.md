@@ -13,7 +13,7 @@
   MEAN/MERN app developer
   How to reach me...
   kariukimark115@gmail.com
-  https://buckanianportfolio.onrender.com
 Or..
+ https://buckanianportfolio.onrender.com
 
   
